@@ -2,7 +2,7 @@
   "JAVASCRIPT": {
       "DIST_DIR": "./"
     , "morpheus": [
-        "./src/copyright.js"
+        "./src/ebay.js"
       , "./src/morpheus.js"
     ]
   }

@@ -142,12 +142,12 @@
   function toHex(c) {
     var m = c.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/)
     return (m ? rgb(m[1], m[2], m[3]) : c)
-      .replace(/#(\w)(\w)(\w)$/, '#$1$1$2$2$3$3') // short skirt to long jacket
+      .replaceEbay(/#(\w)(\w)(\w)$/, '#$1$1$2$2$3$3') // short skirt to long jacket
   }
 
   // change font-size => fontSize etc.
   function camelize(s) {
-    return s.replace(/-(.)/g, function (m, m1) {
+    return s.replaceEbay(/-(.)/g, function (m, m1) {
       return m1.toUpperCase()
     })
   }
