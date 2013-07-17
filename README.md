@@ -1,3 +1,7 @@
+eBay Morpheus
+=============
+Modified version of [Morpheus](https://github.com/ded/morpheus "A Brilliant Animator") in order to be embedded in eBay listing page.
+
     _  _ ____ ____ ___  _  _ ____ _  _ ____
     |\/| |  | |__/ |__] |__| |___ |  | [__
     |  | |__| |  \ |    |  | |___ |__| ___]

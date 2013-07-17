@@ -1,15 +1,18 @@
 {
-    "name": "morpheus"
-  , "description": "A Brilliant Animator"
+    "name": "ebay-morpheus"
+  , "description": "Modified version of Morpheus which is a brilliant animator"
   , "version": "0.6.7"
-  , "homepage": "https://github.com/ded/morpheus"
-  , "author": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)"
-  , "keywords": ["ender", "animation", "motion", "css", "colors", "morph", "tween", "curve", "bezier", "transform", "skew", "rotate"]
+  , "homepage": "https://github.com/humingchun/morpheus"
+  , "author": "Michael Hu <humingchun@gmail.com> (http://michaellearnstocode.com)"
+  , "contributors": [
+        "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)"
+    }
+  , "keywords": [ "ebay", "ender", "animation", "motion", "css", "colors", "morph", "tween", "curve", "bezier", "transform", "skew", "rotate"]
   , "main": "./morpheus.js"
   , "ender": "./src/ender.js"
   , "repository": {
       "type": "git"
-    , "url": "https://github.com/ded/morpheus.git"
+    , "url": "https://github.com/humingchun/morpheus.git"
   }
   , "devDependencies": {
         "sink-test": "1.x.x"
