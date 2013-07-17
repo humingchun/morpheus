@@ -6,7 +6,7 @@
   , "author": "Michael Hu <humingchun@gmail.com> (http://michaellearnstocode.com)"
   , "contributors": [
         "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)"
-    }
+    ]
   , "keywords": [ "ebay", "ender", "animation", "motion", "css", "colors", "morph", "tween", "curve", "bezier", "transform", "skew", "rotate"]
   , "main": "./morpheus.js"
   , "ender": "./src/ender.js"
