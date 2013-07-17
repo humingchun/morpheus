@@ -1,4 +1,4 @@
-var morpheus = require('morpheus')
+var morpheus = require('ebay-morpheus')
 !function ($) {
   $.ender({
     animate: function (options) {

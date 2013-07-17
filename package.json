@@ -1,7 +1,7 @@
 {
     "name": "ebay-morpheus"
   , "description": "Modified version of Morpheus which is a brilliant animator"
-  , "version": "0.6.7"
+  , "version": "0.6.7-1"
   , "homepage": "https://github.com/humingchun/morpheus"
   , "author": "Michael Hu <humingchun@gmail.com> (http://michaellearnstocode.com)"
   , "contributors": [
